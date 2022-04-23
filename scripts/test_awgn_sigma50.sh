@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --exp 50_sobel_loss_cbam_clean_adv_and_gen --datarootN_val ./dataset/test/CBSD68 --sigma 50 --test 1 --testmodel_n2c ./exp/cbsd68_50/sobel_loss_cbam_clean_adv_and_gen/saved_models/best_G_N2C.pth

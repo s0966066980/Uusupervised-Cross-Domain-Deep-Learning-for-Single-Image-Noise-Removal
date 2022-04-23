@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --exp ldct  --patch_size 64 --datarootC ./dataset/train/ldct_trainC.h5 --datarootN ./dataset/train/ldct_trainN.h5 --datarootN_val ./dataset/test/ldct_test --real 1
