@@ -1,8 +1,8 @@
 # Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal  
 
 ![image](https://github.com/s0966066980/Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal/blob/main/Figure/Figure1.png)
-![image](https://github.com/s0966066980/Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal/blob/main/Figure/Figure1.png)
-![image](https://github.com/s0966066980/Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal/blob/main/Figure/Figure1.png)
+![image](https://github.com/s0966066980/Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal/blob/main/Figure/Figure2.png)
+![image](https://github.com/s0966066980/Uusupervised-Cross-Domain-Deep-Learning-for-Single-Image-Noise-Removal/blob/main/Figure/Figure3.png)
 
 # Requirements
 To install requirements:
